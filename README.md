@@ -2,5 +2,5 @@
 
 ## Enunciado
 
-![Enunciado](./questao01.jpg)
-![Enunciado](./questao02.jpg)
+![Enunciado](./Questao01.jpg)
+![Enunciado](./Questao02.jpg)
