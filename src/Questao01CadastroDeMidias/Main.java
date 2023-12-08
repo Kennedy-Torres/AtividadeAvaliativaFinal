@@ -1,8 +1,5 @@
 package Questao01CadastroDeMidias;
 
-import Questao01CadastroDeMidias.Dvd;
-import Questao01CadastroDeMidias.Midia;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

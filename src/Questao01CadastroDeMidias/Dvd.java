@@ -1,10 +1,9 @@
 package Questao01CadastroDeMidias;
 
-import Questao01CadastroDeMidias.Midia;
-
 import java.util.Scanner;
 
 public class Dvd extends Midia {
+    // NÃO FOI PRECISO inserir o método printDados na classe Dvd. utilizei da variável de referência mais genérica para a mais específica
     private int nFaixas;
 
     public Dvd(){}

@@ -1,10 +1,9 @@
 package Questao01CadastroDeMidias;
 
-import Questao01CadastroDeMidias.Midia;
-
 import java.util.Scanner;
 
 public class Cd extends Midia {
+    // NÃO FOI PRECISO inserir o método printDados na classe Cd. utilizei da variável de referência mais genérica para a mais específica
     private int nMusicas;
 
     public Cd(){}
